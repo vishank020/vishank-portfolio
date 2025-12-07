@@ -53,7 +53,7 @@ const CONFIG = {
   },
   seo: { title: 'Portfolio of Vishank Singh', description: '', imageURL: '' },
   social: {
-    linkedin: 'https://www.linkedin.com/in/vishank-singh/',
+    linkedin: 'vishank-singh',
     x: 'vishank_020',
     mastodon: '',
     researchGate: '',
